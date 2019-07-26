@@ -2,7 +2,7 @@
 
 ![image](https://media.giphy.com/media/jqPFMngIElHz2/giphy.gif)
 
-This morning we will be working on the following: 
+This exercise we will be working on the following: 
 
 1. [Ruby Koans](http://rubykoans.com/)
 
