@@ -21,7 +21,7 @@ Fork and clone this repo.
 
 - You can ask for help if you get stuck but please do your best to figure these out on your own. The path to enlightenment is acheivable even with no prior knowledge of Ruby.
 
-- You will add a screen cap of your terminal to your repo showing that you've gotten to the end of the koans. Link to the image in your pull request comment. Something like this:
+- You will add a screen cap of your terminal to your repo showing that you've gotten to the end of the koans (we're going to 156 for now, but you can go further if you'd like). Link to the image in your pull request comment. Something like this:
 
 ![screen cap](https://i.imgur.com/x48fCZf.png)
 
