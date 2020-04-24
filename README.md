@@ -17,12 +17,10 @@ Fork and clone this repo.
 
 - Download Ruby Koans into the directory for this repo. Run the path_to_enlightenment.rb and start hacking.
 
-- Some of the later concepts we have not covered, but use the testing to your advantage. It will steer you in the right direction.
+- You can ask for help if you get stuck but please do your best to figure these out on your own. The path to enlightenment is achievable even with no prior knowledge of Ruby.
 
-- You can ask for help if you get stuck but please do your best to figure these out on your own. The path to enlightenment is acheivable even with no prior knowledge of Ruby.
-
-- Complete 156 Koans. Run `pwd` to print your file path, including your root directory. Then, screen cap your terminal, showing your progress and your `pwd` command. Link to the image in your pull request comment. Something like:
+- Complete 124 Koans. Run `pwd` to print your file path, including your root directory. Then, screen cap your terminal, showing your progress and your `pwd` command. Link to the image in your pull request comment. Something like:
 `![screen cap](https://i.imgur.com/x48fCZf.png)`
 will display: 
 
-![screen cap](https://i.imgur.com/x48fCZf.png)
+![screen cap](screen_cap.png)
