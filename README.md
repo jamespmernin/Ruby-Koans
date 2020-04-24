@@ -20,7 +20,7 @@ Fork and clone this repo.
 - You can ask for help if you get stuck but please do your best to figure these out on your own. The path to enlightenment is achievable even with no prior knowledge of Ruby.
 
 - Complete 124 Koans. Run `pwd` to print your file path, including your root directory. Then, screen cap your terminal, showing your progress and your `pwd` command. Link to the image in your pull request comment. Something like:
-`![screen cap](https://i.imgur.com/x48fCZf.png)`
+`![screen cap](screen_cap.png)`
 will display: 
 
 ![screen cap](screen_cap.png)
